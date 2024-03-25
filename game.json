@@ -238,7 +238,7 @@
   "productCategories": [ 
     {
       "id": 1,
-      "name": "Motherboard",
+      "name": "Motherboard2",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/motherboard.png",
       "isAvailable": true,
       "isVideoShow": false,
