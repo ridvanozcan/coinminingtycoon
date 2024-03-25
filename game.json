@@ -1,67 +1,70 @@
 {
   "userInfo": {
-    "id": 123,
-    "username": "exampleUser"
+    "id": 0,
+    "username": "username",
+    "jobId": 0,
+    "coinId": [0],
+    "budget": 200
   },
   "jobs": [
     {
       "id": 1,
       "name": "Doctor",
-      "image": "doctor",
+      "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/job/doctor.png",
       "isActive": true
     },
     {
       "id": 2,
       "name": "Astronaut",
-      "image": "astronaut",
+      "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/job/astronaut.png",
       "isActive": false
     },
     {
       "id": 3,
       "name": "Senior Miner",
-      "image": "swat",
+      "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/job/swat.png",
       "isActive": false
     },
     {
       "id": 4,
       "name": "Police",
-      "image": "policeman",
+      "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/job/policeman.png",
       "isActive": true
     },
     {
       "id": 5,
       "name": "Alien",
-      "image": "motorcyclist",
+      "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/job/motorcyclist.png",
       "isActive": false
     },
     {
       "id": 6,
       "name": "Soldier",
-      "image": "soldier",
+      "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/job/soldier.png",
       "isActive": true
     },
     {
       "id": 7,
       "name": "Fire Fighter",
-      "image": "firefighter",
+      "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/job/firefighter.png",
       "isActive": true
     },
     {
       "id": 8,
       "name": "Diver",
-      "image": "diver",
+      "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/job/diver.png",
       "isActive": false
     },
     {
       "id": 9,
       "name": "Retired",
-      "image": "judge",
+      "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/job/judge.png",
       "isActive": true
     },
     {
       "id": 10,
       "name": "Thief",
-      "image": "thief",
+      "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/job/thief.png",
       "isActive": false
     }
   ],
