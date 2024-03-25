@@ -74,7 +74,8 @@
       "name": "Enigma",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/enigma.png",
       "value": 21.0,
-      "isAvailable": false,
+      "isAvailable": true,
+      "isVideoShow": false,
       "amount": 50000
     },
     {
@@ -83,6 +84,7 @@
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/bat.png",
       "value": 0.30,
       "isAvailable": true,
+      "isVideoShow": true,
       "amount": 0
     },
     {
@@ -90,7 +92,8 @@
       "name": "SIX",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/six.png",
       "value": 0.03,
-      "isAvailable": false,
+      "isAvailable": true,
+      "isVideoShow": false,
       "amount": 0
     },
     {
@@ -98,7 +101,8 @@
       "name": "Kusama",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/kusama.png",
       "value": 44.0,
-      "isAvailable": false,
+      "isAvailable": true,
+      "isVideoShow": false,
       "amount": 300000
     },
     {
@@ -107,6 +111,7 @@
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/wanchain.png",
       "value": 0.4,
       "isAvailable": true,
+      "isVideoShow": true,
       "amount": 0
     },
     {
@@ -114,7 +119,8 @@
       "name": "BAND",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/band.png",
       "value": 3.0,
-      "isAvailable": false,
+      "isAvailable": true,
+      "isVideoShow": false,
       "amount": 5000
     },
     {
@@ -123,6 +129,7 @@
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/cardano.png",
       "value": 0.63,
       "isAvailable": true,
+      "isVideoShow": true,
       "amount": 0
     },
     {
@@ -130,7 +137,8 @@
       "name": "Decentraland",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/decentraland.png",
       "value": 0.8,
-      "isAvailable": false,
+      "isAvailable": true,
+      "isVideoShow": false,
       "amount": 1000
     },
     {
@@ -138,7 +146,8 @@
       "name": "Dot",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/dot.png",
       "value": 10.0,
-      "isAvailable": false,
+      "isAvailable": true,
+      "isVideoShow": false,
       "amount": 25000
     },
     {
@@ -146,7 +155,8 @@
       "name": "Infinitus",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/infinitus.png",
       "value": 124.0,
-      "isAvailable": false,
+      "isAvailable": true,
+      "isVideoShow": false,
       "amount": 1000000
     },
     {
@@ -154,7 +164,8 @@
       "name": "Kyber",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/kyber.png",
       "value": 1.4,
-      "isAvailable": false,
+      "isAvailable": true,
+      "isVideoShow": false,
       "amount": 5000
     },
     {
@@ -162,7 +173,8 @@
       "name": "Litecoin",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/litecoin.png",
       "value": 87.15,
-      "isAvailable": false,
+      "isAvailable": true,
+      "isVideoShow": false,
       "amount": 750000
     },
     {
@@ -171,6 +183,7 @@
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/status.png",
       "value": 0.04,
       "isAvailable": true,
+      "isVideoShow": true,
       "amount": 0
     },
     {
@@ -178,7 +191,8 @@
       "name": "Tether",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/tether.png",
       "value": 34.8,
-      "isAvailable": false,
+      "isAvailable": true,
+      "isVideoShow": false,
       "amount": 150000
     },
     {
@@ -186,7 +200,8 @@
       "name": "ZRX",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/zrx.png",
       "value": 5.3,
-      "isAvailable": false,
+      "isAvailable": true,
+      "isVideoShow": false,
       "amount": 15000
     }
   ]
