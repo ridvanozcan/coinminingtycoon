@@ -69,7 +69,7 @@
     {
       "id": 1,
       "name": "Enigma",
-      "image": "enigma",
+      "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/enigma.png",
       "value": 21.0,
       "isAvailable": false,
       "amount": 50000
