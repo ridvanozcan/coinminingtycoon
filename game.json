@@ -6,7 +6,7 @@
     "coinId": [0],
     "budget": 200
   },
-  "jobs": [
+  "jobs": [ 
     {
       "id": 1,
       "name": "Doctor",
