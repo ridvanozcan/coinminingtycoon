@@ -12,70 +12,90 @@
       "name": "Doctor",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/job/doctor.png",
       "isActive": true,
-      "isVideoShow": false
+      "isVideoShow": false,
+      "amount": 0,
+      "score": 0
     },
     {
       "id": 2,
       "name": "Astronaut",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/job/astronaut.png",
       "isActive": false,
-      "isVideoShow": true
+      "isVideoShow": true,
+      "amount": 0,
+      "score": 0
     },
     {
       "id": 3,
       "name": "Senior Miner",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/job/swat.png",
       "isActive": false,
-      "isVideoShow": true
+      "isVideoShow": true,
+      "amount": 0,
+      "score": 0
     },
     {
       "id": 4,
       "name": "Police",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/job/policeman.png",
       "isActive": true,
-      "isVideoShow": false
+      "isVideoShow": false,
+      "amount": 0,
+      "score": 0
     },
     {
       "id": 5,
       "name": "Alien",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/job/motorcyclist.png",
       "isActive": false,
-      "isVideoShow": true
+      "isVideoShow": true,
+      "amount": 0,
+      "score": 0
     },
     {
       "id": 6,
       "name": "Soldier",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/job/soldier.png",
       "isActive": true,
-      "isVideoShow": true
+      "isVideoShow": true,
+      "amount": 0,
+      "score": 0
     },
     {
       "id": 7,
       "name": "Fire Fighter",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/job/firefighter.png",
       "isActive": true,
-      "isVideoShow": false
+      "isVideoShow": false,
+      "amount": 0,
+      "score": 0
     },
     {
       "id": 8,
       "name": "Diver",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/job/diver.png",
       "isActive": false,
-      "isVideoShow": true
+      "isVideoShow": true,
+      "amount": 0,
+      "score": 0
     },
     {
       "id": 9,
       "name": "Retired",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/job/judge.png",
       "isActive": true,
-      "isVideoShow": false
+      "isVideoShow": false,
+      "amount": 0,
+      "score": 0
     },
     {
       "id": 10,
       "name": "Thief",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/job/thief.png",
       "isActive": false,
-      "isVideoShow": true
+      "isVideoShow": true,
+      "amount": 0,
+      "score": 0
     }
   ],
   "coins": [
