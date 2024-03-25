@@ -234,5 +234,118 @@
       "isVideoShow": false,
       "amount": 15000
     }
+  ],
+  "productCategories": [ 
+    {
+      "id": 1,
+      "name": "Motherboard",
+      "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/motherboard.png",
+      "isAvailable": true,
+      "isVideoShow": false,
+      "isLock": false,
+      "amount": 15000,
+      "subCategories": [
+        {
+          "id": 1,
+          "name": "Basic Board",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/basicboard.png",
+          "isAvailable": true,
+          "isVideoShow": false,
+          "isLock": false,
+          "amount": 100,
+          "performance": 10
+        },
+        {
+          "id": 2,
+          "name": "Starter Circuit",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/startercircuit.png",
+          "isAvailable": true,
+          "isVideoShow": false,
+          "isLock": false,
+          "amount": 1000,
+          "performance": 27
+        },
+        {
+          "id": 3,
+          "name": "Entry Chipset",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/entrychipset.png",
+          "isAvailable": true,
+          "isVideoShow": false,
+          "isLock": false,
+          "amount": 2000,
+          "performance": 48
+        },
+        {
+          "id": 4,
+          "name": "Midrange Module",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/midrangemodule.png",
+          "isAvailable": true,
+          "isVideoShow": false,
+          "isLock": false,
+          "amount": 5000,
+          "performance": 95
+        },
+        {
+          "id": 5,
+          "name": "Core Logic",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/corelogic.png",
+          "isAvailable": true,
+          "isVideoShow": false,
+          "isLock": false,
+          "amount": 10000,
+          "performance": 210
+        },
+        {
+          "id": 6,
+          "name": "Performance Platform",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/performanceplatform.png",
+          "isAvailable": true,
+          "isVideoShow": false,
+          "isLock": true,
+          "amount": 40000,
+          "performance": 395
+        },
+        {
+          "id": 7,
+          "name": "Elite Circuitry",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/elitecircuitry.png",
+          "isAvailable": true,
+          "isVideoShow": false,
+          "isLock": true,
+          "amount": 75000,
+          "performance": 589
+        },
+        {
+          "id": 8,
+          "name": "Superior Board",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/superiorboard.png",
+          "isAvailable": true,
+          "isVideoShow": false,
+          "isLock": true,
+          "amount": 100000,
+          "performance": 750
+        },
+        {
+          "id": 9,
+          "name": "Ultimate Motherboard",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/ultimatemotherboard.png",
+          "isAvailable": true,
+          "isVideoShow": false,
+          "isLock": true,
+          "amount": 300000,
+          "performance": 1420
+        },
+        {
+          "id": 10,
+          "name": "Apex Chipset",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/apexchipset.png",
+          "isAvailable": true,
+          "isVideoShow": false,
+          "isLock": true,
+          "amount": 500000,
+          "performance": 3254
+        }
+      ]
+    }
   ]
 }
