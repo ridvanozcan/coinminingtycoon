@@ -2,7 +2,7 @@
   "configs": {
     "budget": 200,
     "diamond": 1,
-    "homeBanner": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/banners/crypto_banner.png",
+    "homeBanner": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/banners/crypto_banner2.png",
     "homeBannerActive": true
   },
   "jobs": [ 
