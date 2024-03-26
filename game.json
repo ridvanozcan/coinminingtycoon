@@ -2,7 +2,7 @@
   "configs": {
     "budget": 200,
     "diamond": 1,
-    "homeBanner": "Deneme yazısı Rıdvan Özcan / Yazılım Mühendisi",
+    "homeBanner": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/banners/crypto_games.png",
     "homeBannerActive": true
   },
   "jobs": [ 
