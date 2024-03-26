@@ -1,9 +1,6 @@
 {
   "userInfo": {
-    "id": 0,
-    "username": "username",
-    "jobId": 0,
-    "coinId": [0],
+    "username": "",
     "budget": 200
   },
   "jobs": [ 
