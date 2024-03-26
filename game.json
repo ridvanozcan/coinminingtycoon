@@ -1,8 +1,9 @@
 {
-  "userInfo": {
-    "username": "",
+  "configs": {
     "budget": 200,
-    "diamond": 1
+    "diamond": 1,
+    "homeBanner": "Deneme yazısı Rıdvan Özcam",
+    "homeBannerActive": true
   },
   "jobs": [ 
     {
