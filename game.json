@@ -510,7 +510,7 @@
     {
       "id": 3,
       "name": "Energy",
-      "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/energy/energymain.png",
+      "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/energy/energy.png",
       "isAvailable": true,
       "isVideoShow": false,
       "isLock": false,
@@ -518,74 +518,74 @@
       "subCategories": [
         {
           "id": 1,
-          "name": "Byte Blast",
-          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/byteblast.png",
+          "name": "Low Power",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/lowpower.png",
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
           "amount": 100,
           "performance": 10,
-          "mainCategoryId": 2
+          "mainCategoryId": 3
         },
         {
           "id": 2,
-          "name": "Data Dynamo",
-          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/datadynamo.png",
+          "name": "Mid Power",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/midpower.png",
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
           "amount": 1000,
           "performance": 27,
-          "mainCategoryId": 2
+          "mainCategoryId": 3
         },
         {
           "id": 3,
-          "name": "Speed Sprint",
-          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/speedsprint.png",
+          "name": "High Power",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/highpower.png",
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
           "amount": 2000,
           "performance": 48,
-          "mainCategoryId": 2
+          "mainCategoryId": 3
         },
         {
           "id": 4,
-          "name": "Quantum Quick",
-          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/quantumquick.png",
+          "name": "Super Power",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/superpower.png",
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
           "amount": 5000,
           "performance": 95,
-          "mainCategoryId": 2
+          "mainCategoryId": 3
         },
         {
           "id": 5,
-          "name": "Flash Fusion",
-          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/flashfusion.png",
+          "name": "Ultra Power",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/ultrapower.png",
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
           "amount": 10000,
           "performance": 210,
-          "mainCategoryId": 2
+          "mainCategoryId": 3
         },
         {
           "id": 6,
-          "name": "Nexus Node",
-          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/nexusnode1.png",
+          "name": "Mega Power",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/megapower.png",
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": true,
           "amount": 40000,
           "performance": 395,
-          "mainCategoryId": 2
+          "mainCategoryId": 3
         },
         {
           "id": 7,
-          "name": "Turbo Thread",
-          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/turbothread.png",
+          "name": "Hyper Power",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/hyperpower.png",
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": true,
@@ -595,38 +595,38 @@
         },
         {
           "id": 8,
-          "name": "Pulse Push",
-          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/pulsepush.png",
+          "name": "Extreme Power",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/extremepower.png",
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": true,
           "amount": 100000,
           "performance": 750,
-          "mainCategoryId": 2
+          "mainCategoryId": 3
         },
         {
           "id": 9,
-          "name": "Stellar Stream",
-          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/stellarstream.png",
+          "name": "Max Power",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/maxpower.png",
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": true,
           "amount": 300000,
           "performance": 1420,
-          "mainCategoryId": 2
+          "mainCategoryId": 3
         },
         {
           "id": 10,
-          "name": "Zenith Zap",
-          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/zenithzap.png",
+          "name": "Ultimate Power",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/ultimatepower.png",
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": true,
           "amount": 500000,
           "performance": 3254,
-          "mainCategoryId": 2
+          "mainCategoryId": 3
         }
       ]
-    }
+    }    
   ]
 }
