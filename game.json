@@ -506,6 +506,127 @@
           "mainCategoryId": 2
         }
       ]
+    },
+    {
+      "id": 3,
+      "name": "Energy",
+      "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/energy/energy.png",
+      "isAvailable": true,
+      "isVideoShow": false,
+      "isLock": false,
+      "amount": 15000,
+      "subCategories": [
+        {
+          "id": 1,
+          "name": "Byte Blast",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/byteblast.png",
+          "isAvailable": true,
+          "isVideoShow": false,
+          "isLock": false,
+          "amount": 100,
+          "performance": 10,
+          "mainCategoryId": 2
+        },
+        {
+          "id": 2,
+          "name": "Data Dynamo",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/datadynamo.png",
+          "isAvailable": true,
+          "isVideoShow": false,
+          "isLock": false,
+          "amount": 1000,
+          "performance": 27,
+          "mainCategoryId": 2
+        },
+        {
+          "id": 3,
+          "name": "Speed Sprint",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/speedsprint.png",
+          "isAvailable": true,
+          "isVideoShow": false,
+          "isLock": false,
+          "amount": 2000,
+          "performance": 48,
+          "mainCategoryId": 2
+        },
+        {
+          "id": 4,
+          "name": "Quantum Quick",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/quantumquick.png",
+          "isAvailable": true,
+          "isVideoShow": false,
+          "isLock": false,
+          "amount": 5000,
+          "performance": 95,
+          "mainCategoryId": 2
+        },
+        {
+          "id": 5,
+          "name": "Flash Fusion",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/flashfusion.png",
+          "isAvailable": true,
+          "isVideoShow": false,
+          "isLock": false,
+          "amount": 10000,
+          "performance": 210,
+          "mainCategoryId": 2
+        },
+        {
+          "id": 6,
+          "name": "Nexus Node",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/nexusnode1.png",
+          "isAvailable": true,
+          "isVideoShow": false,
+          "isLock": true,
+          "amount": 40000,
+          "performance": 395,
+          "mainCategoryId": 2
+        },
+        {
+          "id": 7,
+          "name": "Turbo Thread",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/turbothread.png",
+          "isAvailable": true,
+          "isVideoShow": false,
+          "isLock": true,
+          "amount": 75000,
+          "performance": 598,
+          "mainCategoryId": 2
+        },
+        {
+          "id": 8,
+          "name": "Pulse Push",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/pulsepush.png",
+          "isAvailable": true,
+          "isVideoShow": false,
+          "isLock": true,
+          "amount": 100000,
+          "performance": 750,
+          "mainCategoryId": 2
+        },
+        {
+          "id": 9,
+          "name": "Stellar Stream",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/stellarstream.png",
+          "isAvailable": true,
+          "isVideoShow": false,
+          "isLock": true,
+          "amount": 300000,
+          "performance": 1420,
+          "mainCategoryId": 2
+        },
+        {
+          "id": 10,
+          "name": "Zenith Zap",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/zenithzap.png",
+          "isAvailable": true,
+          "isVideoShow": false,
+          "isLock": true,
+          "amount": 500000,
+          "performance": 3254,
+          "mainCategoryId": 2
+        }
+      ]
     }
   ]
 }
