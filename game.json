@@ -510,7 +510,7 @@
     {
       "id": 3,
       "name": "Energy",
-      "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/energy/energy.png",
+      "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/energy/energymain.png",
       "isAvailable": true,
       "isVideoShow": false,
       "isLock": false,
