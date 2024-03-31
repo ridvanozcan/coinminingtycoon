@@ -519,7 +519,7 @@
         {
           "id": 1,
           "name": "Low Power",
-          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/lowpower.png",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/energy/lowpower.png",
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
@@ -530,7 +530,7 @@
         {
           "id": 2,
           "name": "Mid Power",
-          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/midpower.png",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/energy/midpower.png",
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
@@ -541,7 +541,7 @@
         {
           "id": 3,
           "name": "High Power",
-          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/highpower.png",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/energy/highpower.png",
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
@@ -552,7 +552,7 @@
         {
           "id": 4,
           "name": "Super Power",
-          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/superpower.png",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/energy/superpower.png",
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
@@ -563,7 +563,7 @@
         {
           "id": 5,
           "name": "Ultra Power",
-          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/ultrapower.png",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/energy/ultrapower.png",
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
@@ -574,7 +574,7 @@
         {
           "id": 6,
           "name": "Mega Power",
-          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/megapower.png",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/energy/megapower.png",
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": true,
@@ -585,7 +585,7 @@
         {
           "id": 7,
           "name": "Hyper Power",
-          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/hyperpower.png",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/energy/hyperpower.png",
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": true,
@@ -596,7 +596,7 @@
         {
           "id": 8,
           "name": "Extreme Power",
-          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/extremepower.png",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/energy/extremepower.png",
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": true,
@@ -607,7 +607,7 @@
         {
           "id": 9,
           "name": "Max Power",
-          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/maxpower.png",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/energy/maxpower.png",
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": true,
@@ -618,7 +618,7 @@
         {
           "id": 10,
           "name": "Ultimate Power",
-          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/product/sub/ultimatepower.png",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/energy/ultimatepower.png",
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": true,
