@@ -523,9 +523,10 @@
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
-          "amount": 100,
-          "performance": 10,
-          "mainCategoryId": 3
+          "amount": 50,
+          "performance": 0,
+          "mainCategoryId": 3,
+          "energy": 3
         },
         {
           "id": 2,
@@ -534,9 +535,10 @@
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
-          "amount": 1000,
-          "performance": 27,
-          "mainCategoryId": 3
+          "amount": 300,
+          "performance": 0,
+          "mainCategoryId": 3,
+          "energy": 8
         },
         {
           "id": 3,
@@ -545,9 +547,10 @@
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
-          "amount": 2000,
-          "performance": 48,
-          "mainCategoryId": 3
+          "amount": 1000,
+          "performance": 0,
+          "mainCategoryId": 3,
+          "energy": 15
         },
         {
           "id": 4,
@@ -558,7 +561,8 @@
           "isLock": false,
           "amount": 5000,
           "performance": 95,
-          "mainCategoryId": 3
+          "mainCategoryId": 3,
+          "energy": 30
         },
         {
           "id": 5,
@@ -569,7 +573,8 @@
           "isLock": false,
           "amount": 10000,
           "performance": 210,
-          "mainCategoryId": 3
+          "mainCategoryId": 3,
+          "energy": 50
         },
         {
           "id": 6,
@@ -580,7 +585,8 @@
           "isLock": true,
           "amount": 40000,
           "performance": 395,
-          "mainCategoryId": 3
+          "mainCategoryId": 3,
+          "energy": 75
         },
         {
           "id": 7,
@@ -591,7 +597,8 @@
           "isLock": true,
           "amount": 75000,
           "performance": 598,
-          "mainCategoryId": 2
+          "mainCategoryId": 2,
+          "energy": 100
         },
         {
           "id": 8,
@@ -602,7 +609,8 @@
           "isLock": true,
           "amount": 100000,
           "performance": 750,
-          "mainCategoryId": 3
+          "mainCategoryId": 3,
+          "energy": 124
         },
         {
           "id": 9,
@@ -613,7 +621,8 @@
           "isLock": true,
           "amount": 300000,
           "performance": 1420,
-          "mainCategoryId": 3
+          "mainCategoryId": 3,
+          "energy": 200
         },
         {
           "id": 10,
@@ -624,7 +633,8 @@
           "isLock": true,
           "amount": 500000,
           "performance": 3254,
-          "mainCategoryId": 3
+          "mainCategoryId": 3,
+          "energy": 250
         }
       ]
     }    
