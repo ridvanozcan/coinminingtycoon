@@ -641,6 +641,137 @@
           "energy": 500
         }
       ]
+    },
+    {
+      "id": 4,
+      "name": "Cpu",
+      "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/cpu/cpu.png",
+      "isAvailable": true,
+      "isVideoShow": false,
+      "isLock": false,
+      "amount": 15000,
+      "subCategories": [
+        {
+          "id": 1,
+          "name": "NovaCore X",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/cpu/novacorex.png",
+          "isAvailable": true,
+          "isVideoShow": false,
+          "isLock": false,
+          "amount": 100,
+          "performance": 10,
+          "mainCategoryId": 4,
+          "energyConsumption": 3
+        },
+        {
+          "id": 2,
+          "name": "QuantumPulse Z",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/cpu/quantumpulsez.png",
+          "isAvailable": true,
+          "isVideoShow": false,
+          "isLock": false,
+          "amount": 1000,
+          "performance": 27,
+          "mainCategoryId": 4,
+          "energyConsumption": 5
+        },
+        {
+          "id": 3,
+          "name": "AetherBlade Pro",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/cpu/aetherbladepro.png",
+          "isAvailable": true,
+          "isVideoShow": false,
+          "isLock": false,
+          "amount": 2000,
+          "performance": 48,
+          "mainCategoryId": 4,
+          "energyConsumption": 8
+        },
+        {
+          "id": 4,
+          "name": "TitanShift S",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/cpu/titanshifts.png",
+          "isAvailable": true,
+          "isVideoShow": false,
+          "isLock": false,
+          "amount": 5000,
+          "performance": 95,
+          "mainCategoryId": 4,
+          "energyConsumption": 13
+        },
+        {
+          "id": 5,
+          "name": "ChronoCore Elite",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/cpu/chronocoreelite.png",
+          "isAvailable": true,
+          "isVideoShow": false,
+          "isLock": false,
+          "amount": 10000,
+          "performance": 210,
+          "mainCategoryId": 4,
+          "energyConsumption": 21
+        },
+        {
+          "id": 6,
+          "name": "ZenithWave V",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/cpu/zenithwavev.png",
+          "isAvailable": true,
+          "isVideoShow": false,
+          "isLock": true,
+          "amount": 40000,
+          "performance": 395,
+          "mainCategoryId": 4,
+          "energyConsumption": 34
+        },
+        {
+          "id": 7,
+          "name": "NebulaRift T",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/cpu/nebulariftt.png",
+          "isAvailable": true,
+          "isVideoShow": false,
+          "isLock": true,
+          "amount": 75000,
+          "performance": 598,
+          "mainCategoryId": 4,
+          "energyConsumption": 55
+        },
+        {
+          "id": 8,
+          "name": "InfinityStrive G",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/cpu/infinitystriveg.png",
+          "isAvailable": true,
+          "isVideoShow": false,
+          "isLock": true,
+          "amount": 100000,
+          "performance": 750,
+          "mainCategoryId": 4,
+          "energyConsumption": 89
+        },
+        {
+          "id": 9,
+          "name": "ArcaneForce H",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/cpu/arcaneforceh.png",
+          "isAvailable": true,
+          "isVideoShow": false,
+          "isLock": true,
+          "amount": 300000,
+          "performance": 1420,
+          "mainCategoryId": 4,
+          "energyConsumption": 144
+        },
+        {
+          "id": 10,
+          "name": "VortexBeam L",
+          "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/cpu/vortexbeaml.png",
+          "isAvailable": true,
+          "isVideoShow": false,
+          "isLock": true,
+          "amount": 500000,
+          "performance": 3254,
+          "mainCategoryId": 4,
+          "energyConsumption": 233
+        }
+      ]
     }
   ]
 }
