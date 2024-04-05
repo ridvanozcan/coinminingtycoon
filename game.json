@@ -5,7 +5,7 @@
     "homeBanner": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/banners/crypto_banner2.png",
     "homeBannerActive": true
   },
-  "jobs": [ 
+  "jobs": [
     {
       "id": 1,
       "name": "Doctor",
@@ -102,25 +102,23 @@
       "id": 1,
       "name": "Enigma",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/enigma.png",
-      "value": 21.0,
+      "value": 21,
       "isAvailable": true,
       "isVideoShow": false,
       "amount": 50000,
-      "energy": 20,
-      "speed": 0.50
-  },
-  {
+      "speed": 0.5
+    },
+    {
       "id": 2,
       "name": "BAT",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/bat.png",
-      "value": 0.30,
+      "value": 0.3,
       "isAvailable": true,
       "isVideoShow": true,
       "amount": 0,
-      "energy": 65,
-      "speed": 4.50
-  },
-  {
+      "speed": 4.5
+    },
+    {
       "id": 3,
       "name": "SIX",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/six.png",
@@ -128,21 +126,19 @@
       "isAvailable": true,
       "isVideoShow": false,
       "amount": 0,
-      "energy": 60,
-      "speed": 10.00
-  },
-  {
+      "speed": 10
+    },
+    {
       "id": 4,
       "name": "Kusama",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/kusama.png",
-      "value": 44.0,
+      "value": 44,
       "isAvailable": true,
       "isVideoShow": false,
       "amount": 300000,
-      "energy": 25,
       "speed": 10
-  },
-  {
+    },
+    {
       "id": 5,
       "name": "Wanchain",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/wanchain.png",
@@ -150,21 +146,19 @@
       "isAvailable": true,
       "isVideoShow": true,
       "amount": 0,
-      "energy": 55,
-      "speed": 3.00
-  },
-  {
+      "speed": 3
+    },
+    {
       "id": 6,
       "name": "BAND",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/band.png",
-      "value": 3.0,
+      "value": 3,
       "isAvailable": true,
       "isVideoShow": false,
       "amount": 5000,
-      "energy": 30,
-      "speed": 2.50
-  },
-  {
+      "speed": 2.5
+    },
+    {
       "id": 7,
       "name": "Cardano",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/cardano.png",
@@ -172,10 +166,9 @@
       "isAvailable": true,
       "isVideoShow": true,
       "amount": 0,
-      "energy": 70,
-      "speed": 2.00
-  },
-  {
+      "speed": 2
+    },
+    {
       "id": 8,
       "name": "Decentraland",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/decentraland.png",
@@ -183,32 +176,29 @@
       "isAvailable": true,
       "isVideoShow": false,
       "amount": 1000,
-      "energy": 50,
-      "speed": 1.50
-  },
-  {
+      "speed": 1.5
+    },
+    {
       "id": 9,
       "name": "Dot",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/dot.png",
-      "value": 11.0,
+      "value": 11,
       "isAvailable": true,
       "isVideoShow": false,
       "amount": 25000,
-      "energy": 45,
-      "speed": 1.00
-  },
-  {
+      "speed": 1
+    },
+    {
       "id": 10,
       "name": "Infinitus",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/infinitus.png",
-      "value": 124.0,
+      "value": 124,
       "isAvailable": true,
       "isVideoShow": false,
       "amount": 1000000,
-      "energy": 10,
       "speed": 20
-  },
-  {
+    },
+    {
       "id": 11,
       "name": "Kyber",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/kyber.png",
@@ -216,10 +206,9 @@
       "isAvailable": true,
       "isVideoShow": false,
       "amount": 5000,
-      "energy": 35,
-      "speed": 3.00
-  },
-  {
+      "speed": 3
+    },
+    {
       "id": 12,
       "name": "Litecoin",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/litecoin.png",
@@ -227,10 +216,9 @@
       "isAvailable": true,
       "isVideoShow": false,
       "amount": 750000,
-      "energy": 15,
       "speed": 30
-  },
-  {
+    },
+    {
       "id": 13,
       "name": "Status",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/status.png",
@@ -238,10 +226,9 @@
       "isAvailable": true,
       "isVideoShow": true,
       "amount": 0,
-      "energy": 80,
       "speed": 50
-  },
-  {
+    },
+    {
       "id": 14,
       "name": "Tether",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/tether.png",
@@ -249,10 +236,9 @@
       "isAvailable": true,
       "isVideoShow": false,
       "amount": 150000,
-      "energy": 75,
       "speed": 20
-  },
-  {
+    },
+    {
       "id": 15,
       "name": "ZRX",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/zrx.png",
@@ -260,11 +246,10 @@
       "isAvailable": true,
       "isVideoShow": false,
       "amount": 15000,
-      "energy": 40,
       "speed": 5
-  }
+    }
   ],
-  "productCategories": [ 
+  "productCategories": [
     {
       "id": 1,
       "name": "Motherboard",
@@ -283,7 +268,8 @@
           "isLock": false,
           "amount": 100,
           "performance": 10,
-          "mainCategoryId": 1
+          "mainCategoryId": 1,
+          "energyConsumption": 3
         },
         {
           "id": 2,
@@ -294,7 +280,8 @@
           "isLock": false,
           "amount": 1000,
           "performance": 27,
-          "mainCategoryId": 1
+          "mainCategoryId": 1,
+          "energyConsumption": 5
         },
         {
           "id": 3,
@@ -305,7 +292,8 @@
           "isLock": false,
           "amount": 2000,
           "performance": 48,
-          "mainCategoryId": 1
+          "mainCategoryId": 1,
+          "energyConsumption": 8
         },
         {
           "id": 4,
@@ -316,7 +304,8 @@
           "isLock": false,
           "amount": 5000,
           "performance": 95,
-          "mainCategoryId": 1
+          "mainCategoryId": 1,
+          "energyConsumption": 13
         },
         {
           "id": 5,
@@ -327,7 +316,8 @@
           "isLock": false,
           "amount": 10000,
           "performance": 210,
-          "mainCategoryId": 1
+          "mainCategoryId": 1,
+          "energyConsumption": 21
         },
         {
           "id": 6,
@@ -338,7 +328,8 @@
           "isLock": true,
           "amount": 40000,
           "performance": 395,
-          "mainCategoryId": 1
+          "mainCategoryId": 1,
+          "energyConsumption": 34
         },
         {
           "id": 7,
@@ -349,7 +340,8 @@
           "isLock": true,
           "amount": 75000,
           "performance": 589,
-          "mainCategoryId": 1
+          "mainCategoryId": 1,
+          "energyConsumption": 55
         },
         {
           "id": 8,
@@ -360,7 +352,8 @@
           "isLock": true,
           "amount": 100000,
           "performance": 750,
-          "mainCategoryId": 1
+          "mainCategoryId": 1,
+          "energyConsumption": 89
         },
         {
           "id": 9,
@@ -371,7 +364,8 @@
           "isLock": true,
           "amount": 300000,
           "performance": 1420,
-          "mainCategoryId": 1
+          "mainCategoryId": 1,
+          "energyConsumption": 144
         },
         {
           "id": 10,
@@ -382,7 +376,7 @@
           "isLock": true,
           "amount": 500000,
           "performance": 3254,
-          "mainCategoryId": 1
+          "mainCategoryId": 233
         }
       ]
     },
@@ -404,7 +398,8 @@
           "isLock": false,
           "amount": 100,
           "performance": 10,
-          "mainCategoryId": 2
+          "mainCategoryId": 2,
+          "energyConsumption": 3
         },
         {
           "id": 2,
@@ -415,7 +410,8 @@
           "isLock": false,
           "amount": 1000,
           "performance": 27,
-          "mainCategoryId": 2
+          "mainCategoryId": 2,
+          "energyConsumption": 5
         },
         {
           "id": 3,
@@ -426,7 +422,8 @@
           "isLock": false,
           "amount": 2000,
           "performance": 48,
-          "mainCategoryId": 2
+          "mainCategoryId": 2,
+          "energyConsumption": 8
         },
         {
           "id": 4,
@@ -437,7 +434,8 @@
           "isLock": false,
           "amount": 5000,
           "performance": 95,
-          "mainCategoryId": 2
+          "mainCategoryId": 2,
+          "energyConsumption": 13
         },
         {
           "id": 5,
@@ -448,7 +446,8 @@
           "isLock": false,
           "amount": 10000,
           "performance": 210,
-          "mainCategoryId": 2
+          "mainCategoryId": 2,
+          "energyConsumption": 21
         },
         {
           "id": 6,
@@ -459,7 +458,8 @@
           "isLock": true,
           "amount": 40000,
           "performance": 395,
-          "mainCategoryId": 2
+          "mainCategoryId": 2,
+          "energyConsumption": 34
         },
         {
           "id": 7,
@@ -470,7 +470,8 @@
           "isLock": true,
           "amount": 75000,
           "performance": 598,
-          "mainCategoryId": 2
+          "mainCategoryId": 2,
+          "energyConsumption": 55
         },
         {
           "id": 8,
@@ -481,7 +482,8 @@
           "isLock": true,
           "amount": 100000,
           "performance": 750,
-          "mainCategoryId": 2
+          "mainCategoryId": 2,
+          "energyConsumption": 89
         },
         {
           "id": 9,
@@ -492,7 +494,8 @@
           "isLock": true,
           "amount": 300000,
           "performance": 1420,
-          "mainCategoryId": 2
+          "mainCategoryId": 2,
+          "energyConsumption": 144
         },
         {
           "id": 10,
@@ -503,7 +506,8 @@
           "isLock": true,
           "amount": 500000,
           "performance": 3254,
-          "mainCategoryId": 2
+          "mainCategoryId": 2,
+          "energyConsumption": 233
         }
       ]
     },
@@ -538,7 +542,7 @@
           "amount": 300,
           "performance": 0,
           "mainCategoryId": 3,
-          "energy": 8
+          "energy": 6
         },
         {
           "id": 3,
@@ -550,7 +554,7 @@
           "amount": 1000,
           "performance": 0,
           "mainCategoryId": 3,
-          "energy": 15
+          "energy": 9
         },
         {
           "id": 4,
@@ -562,7 +566,7 @@
           "amount": 5000,
           "performance": 0,
           "mainCategoryId": 3,
-          "energy": 30
+          "energy": 18
         },
         {
           "id": 5,
@@ -574,7 +578,7 @@
           "amount": 10000,
           "performance": 0,
           "mainCategoryId": 3,
-          "energy": 50
+          "energy": 36
         },
         {
           "id": 6,
@@ -586,7 +590,7 @@
           "amount": 40000,
           "performance": 0,
           "mainCategoryId": 3,
-          "energy": 75
+          "energy": 72
         },
         {
           "id": 7,
@@ -598,7 +602,7 @@
           "amount": 75000,
           "performance": 0,
           "mainCategoryId": 3,
-          "energy": 100
+          "energy": 144
         },
         {
           "id": 8,
@@ -610,7 +614,7 @@
           "amount": 100000,
           "performance": 0,
           "mainCategoryId": 3,
-          "energy": 124
+          "energy": 288
         },
         {
           "id": 9,
@@ -622,7 +626,7 @@
           "amount": 300000,
           "performance": 0,
           "mainCategoryId": 3,
-          "energy": 200
+          "energy": 350
         },
         {
           "id": 10,
@@ -634,9 +638,9 @@
           "amount": 500000,
           "performance": 0,
           "mainCategoryId": 3,
-          "energy": 250
+          "energy": 500
         }
       ]
-    }    
+    }
   ]
 }
