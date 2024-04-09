@@ -123,7 +123,7 @@
       "id": 3,
       "name": "SIX",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/six.png",
-      "value": 0.03,
+      "value": 0.04,
       "isAvailable": true,
       "isVideoShow": false,
       "amount": 0,
@@ -243,7 +243,7 @@
       "id": 15,
       "name": "ZRX",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/zrx.png",
-      "value": 5.3,
+      "value": 5.5,
       "isAvailable": true,
       "isVideoShow": false,
       "amount": 15000,
@@ -377,7 +377,8 @@
           "isLock": true,
           "amount": 500000,
           "performance": 3254,
-          "mainCategoryId": 233
+          "mainCategoryId": 1,
+          "energyConsumption": 233
         }
       ]
     },
@@ -506,7 +507,7 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 500000,
-          "performance": 3254,
+          "performance": 3255,
           "mainCategoryId": 2,
           "energyConsumption": 233
         }
