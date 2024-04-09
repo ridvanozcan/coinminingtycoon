@@ -328,6 +328,7 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 40000,
+          "diamond": 40,
           "performance": 395,
           "mainCategoryId": 1,
           "energyConsumption": 34
@@ -340,6 +341,7 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 75000,
+          "diamond": 75,
           "performance": 589,
           "mainCategoryId": 1,
           "energyConsumption": 55
@@ -352,6 +354,7 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 100000,
+          "diamond": 100,
           "performance": 750,
           "mainCategoryId": 1,
           "energyConsumption": 89
@@ -364,6 +367,7 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 300000,
+          "diamond": 300,
           "performance": 1420,
           "mainCategoryId": 1,
           "energyConsumption": 144
@@ -376,6 +380,7 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 500000,
+          "diamond": 500,
           "performance": 3254,
           "mainCategoryId": 1,
           "energyConsumption": 233
@@ -398,8 +403,8 @@
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
-          "amount": 100,
-          "performance": 10,
+          "amount": 75,
+          "performance": 7,
           "mainCategoryId": 2,
           "energyConsumption": 3
         },
@@ -410,8 +415,8 @@
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
-          "amount": 1000,
-          "performance": 27,
+          "amount": 500,
+          "performance": 12,
           "mainCategoryId": 2,
           "energyConsumption": 5
         },
@@ -422,8 +427,8 @@
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
-          "amount": 2000,
-          "performance": 48,
+          "amount": 1500,
+          "performance": 24,
           "mainCategoryId": 2,
           "energyConsumption": 8
         },
@@ -434,8 +439,8 @@
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
-          "amount": 5000,
-          "performance": 95,
+          "amount": 2500,
+          "performance": 50,
           "mainCategoryId": 2,
           "energyConsumption": 13
         },
@@ -446,8 +451,8 @@
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
-          "amount": 10000,
-          "performance": 210,
+          "amount": 5000,
+          "performance": 100,
           "mainCategoryId": 2,
           "energyConsumption": 21
         },
@@ -459,7 +464,8 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 40000,
-          "performance": 395,
+          "diamond": 40,
+          "performance": 200,
           "mainCategoryId": 2,
           "energyConsumption": 34
         },
@@ -471,7 +477,8 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 75000,
-          "performance": 598,
+          "diamond": 75,
+          "performance": 500,
           "mainCategoryId": 2,
           "energyConsumption": 55
         },
@@ -483,6 +490,7 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 100000,
+          "diamond": 100,
           "performance": 750,
           "mainCategoryId": 2,
           "energyConsumption": 89
@@ -495,6 +503,7 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 300000,
+          "diamond": 300,
           "performance": 1420,
           "mainCategoryId": 2,
           "energyConsumption": 144
@@ -507,6 +516,7 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 500000,
+          "diamond": 500,
           "performance": 3255,
           "mainCategoryId": 2,
           "energyConsumption": 233
@@ -590,6 +600,7 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 40000,
+          "diamond": 40,
           "performance": 0,
           "mainCategoryId": 3,
           "energy": 72
@@ -602,6 +613,7 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 75000,
+          "diamond": 75,
           "performance": 0,
           "mainCategoryId": 3,
           "energy": 144
@@ -614,6 +626,7 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 100000,
+          "diamond": 100,
           "performance": 0,
           "mainCategoryId": 3,
           "energy": 288
@@ -626,6 +639,7 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 300000,
+          "diamond": 300,
           "performance": 0,
           "mainCategoryId": 3,
           "energy": 350
@@ -638,6 +652,7 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 500000,
+          "diamond": 500,
           "performance": 0,
           "mainCategoryId": 3,
           "energy": 500
@@ -660,8 +675,8 @@
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
-          "amount": 100,
-          "performance": 10,
+          "amount": 75,
+          "performance": 7,
           "mainCategoryId": 4,
           "energyConsumption": 3
         },
@@ -672,8 +687,8 @@
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
-          "amount": 1000,
-          "performance": 27,
+          "amount": 750,
+          "performance": 17,
           "mainCategoryId": 4,
           "energyConsumption": 5
         },
@@ -684,8 +699,8 @@
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
-          "amount": 2000,
-          "performance": 48,
+          "amount": 1500,
+          "performance": 38,
           "mainCategoryId": 4,
           "energyConsumption": 8
         },
@@ -696,8 +711,8 @@
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
-          "amount": 5000,
-          "performance": 95,
+          "amount": 4000,
+          "performance": 85,
           "mainCategoryId": 4,
           "energyConsumption": 13
         },
@@ -708,8 +723,8 @@
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
-          "amount": 10000,
-          "performance": 210,
+          "amount": 8000,
+          "performance": 190,
           "mainCategoryId": 4,
           "energyConsumption": 21
         },
@@ -721,6 +736,7 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 40000,
+          "diamond": 40,
           "performance": 395,
           "mainCategoryId": 4,
           "energyConsumption": 34
@@ -733,6 +749,7 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 75000,
+          "diamond": 75,
           "performance": 598,
           "mainCategoryId": 4,
           "energyConsumption": 55
@@ -745,6 +762,7 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 100000,
+          "diamond": 100,
           "performance": 750,
           "mainCategoryId": 4,
           "energyConsumption": 89
@@ -757,6 +775,7 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 300000,
+          "diamond": 300,
           "performance": 1420,
           "mainCategoryId": 4,
           "energyConsumption": 144
@@ -769,6 +788,7 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 500000,
+          "diamond": 500,
           "performance": 3254,
           "mainCategoryId": 4,
           "energyConsumption": 233
@@ -791,8 +811,8 @@
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
-          "amount": 100,
-          "performance": 10,
+          "amount": 90,
+          "performance": 9,
           "mainCategoryId": 5,
           "energyConsumption": 3
         },
@@ -803,8 +823,8 @@
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
-          "amount": 1000,
-          "performance": 27,
+          "amount": 900,
+          "performance": 29,
           "mainCategoryId": 5,
           "energyConsumption": 5
         },
@@ -852,6 +872,7 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 40000,
+          "diamond": 40,
           "performance": 395,
           "mainCategoryId": 5,
           "energyConsumption": 34
@@ -864,6 +885,7 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 75000,
+          "diamond": 75,
           "performance": 598,
           "mainCategoryId": 5,
           "energyConsumption": 55
@@ -876,6 +898,7 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 100000,
+          "diamond": 100,
           "performance": 750,
           "mainCategoryId": 5,
           "energyConsumption": 89
@@ -888,6 +911,7 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 300000,
+          "diamond": 300,
           "performance": 1420,
           "mainCategoryId": 5,
           "energyConsumption": 144
@@ -900,6 +924,7 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 500000,
+          "diamond": 500,
           "performance": 3254,
           "mainCategoryId": 5,
           "energyConsumption": 233
@@ -922,8 +947,8 @@
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
-          "amount": 100,
-          "performance": 10,
+          "amount": 200,
+          "performance": 20,
           "mainCategoryId": 6,
           "energyConsumption": 3
         },
@@ -934,8 +959,8 @@
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
-          "amount": 1000,
-          "performance": 27,
+          "amount": 2000,
+          "performance": 54,
           "mainCategoryId": 6,
           "energyConsumption": 5
         },
@@ -946,8 +971,8 @@
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
-          "amount": 2000,
-          "performance": 48,
+          "amount": 4000,
+          "performance": 100,
           "mainCategoryId": 6,
           "energyConsumption": 8
         },
@@ -958,8 +983,8 @@
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
-          "amount": 5000,
-          "performance": 95,
+          "amount": 10000,
+          "performance": 200,
           "mainCategoryId": 6,
           "energyConsumption": 13
         },
@@ -970,8 +995,8 @@
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
-          "amount": 10000,
-          "performance": 210,
+          "amount": 20000,
+          "performance": 400,
           "mainCategoryId": 6,
           "energyConsumption": 21
         },
@@ -983,7 +1008,8 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 40000,
-          "performance": 395,
+          "diamond": 40,
+          "performance": 600,
           "mainCategoryId": 6,
           "energyConsumption": 34
         },
@@ -995,7 +1021,8 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 75000,
-          "performance": 598,
+          "diamond": 75,
+          "performance": 1200,
           "mainCategoryId": 6,
           "energyConsumption": 55
         },
@@ -1007,7 +1034,8 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 100000,
-          "performance": 750,
+          "diamond": 100,
+          "performance": 1600,
           "mainCategoryId": 6,
           "energyConsumption": 89
         },
@@ -1019,7 +1047,8 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 300000,
-          "performance": 1420,
+          "diamond": 300,
+          "performance": 2500,
           "mainCategoryId": 6,
           "energyConsumption": 144
         },
@@ -1031,7 +1060,8 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 500000,
-          "performance": 3254,
+          "diamond": 500,
+          "performance": 5000,
           "mainCategoryId": 6,
           "energyConsumption": 233
         }
@@ -1053,8 +1083,8 @@
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
-          "amount": 100,
-          "performance": 10,
+          "amount": 60,
+          "performance": 3,
           "mainCategoryId": 7,
           "energyConsumption": 3
         },
@@ -1065,8 +1095,8 @@
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
-          "amount": 1000,
-          "performance": 27,
+          "amount": 500,
+          "performance": 15,
           "mainCategoryId": 7,
           "energyConsumption": 5
         },
@@ -1077,7 +1107,7 @@
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
-          "amount": 2000,
+          "amount": 1500,
           "performance": 48,
           "mainCategoryId": 7,
           "energyConsumption": 8
@@ -1089,8 +1119,8 @@
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
-          "amount": 5000,
-          "performance": 95,
+          "amount": 3000,
+          "performance": 80,
           "mainCategoryId": 7,
           "energyConsumption": 13
         },
@@ -1101,8 +1131,8 @@
           "isAvailable": true,
           "isVideoShow": false,
           "isLock": false,
-          "amount": 10000,
-          "performance": 210,
+          "amount": 6000,
+          "performance": 150,
           "mainCategoryId": 7,
           "energyConsumption": 21
         },
@@ -1114,6 +1144,7 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 40000,
+          "diamond": 40,
           "performance": 395,
           "mainCategoryId": 7,
           "energyConsumption": 34
@@ -1126,6 +1157,7 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 75000,
+          "diamond": 75,
           "performance": 598,
           "mainCategoryId": 7,
           "energyConsumption": 55
@@ -1138,6 +1170,7 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 100000,
+          "diamond": 100,
           "performance": 750,
           "mainCategoryId": 7,
           "energyConsumption": 89
@@ -1150,6 +1183,7 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 300000,
+          "diamond": 300,
           "performance": 1420,
           "mainCategoryId": 7,
           "energyConsumption": 144
@@ -1162,6 +1196,7 @@
           "isVideoShow": false,
           "isLock": true,
           "amount": 500000,
+          "diamond": 500,
           "performance": 3254,
           "mainCategoryId": 7,
           "energyConsumption": 233
