@@ -3,7 +3,7 @@
     "budget": 200,
     "diamond": 1,
     "homeBanner": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/banners/crypto_banner2.png",
-    "homeBannerVideo": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/video/banner_gif.gif",
+    "homeBannerVideo": "",
     "homeBannerActive": true
   },
   "jobs": [
