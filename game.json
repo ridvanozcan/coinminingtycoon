@@ -4,7 +4,9 @@
     "diamond": 1,
     "homeBanner": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/banners/crypto_banner2.png",
     "homeBannerVideo": "",
-    "homeBannerActive": true
+    "homeBannerActive": true,
+    "homeBannerTitle": "Crypto Mining Tycoon",
+    "homeBannerDesc": "Run the system and start \nmaking money"
   },
   "jobs": [
     {
@@ -123,7 +125,7 @@
       "id": 3,
       "name": "SIX",
       "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/six.png",
-      "value": 0.04,
+      "value": 0.05,
       "isAvailable": true,
       "isVideoShow": false,
       "amount": 0,
@@ -248,6 +250,16 @@
       "isVideoShow": false,
       "amount": 15000,
       "speed": 5
+    },
+    {
+      "id": 16,
+      "name": "ZRX",
+      "image": "https://raw.githubusercontent.com/ridvanozcan/coinminingtycoon/main/images/coin/monero.png",
+      "value": 139.38,
+      "isAvailable": true,
+      "isVideoShow": false,
+      "amount": 30000,
+      "speed": 50
     }
   ],
   "productCategories": [
